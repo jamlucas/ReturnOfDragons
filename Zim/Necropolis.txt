@@ -1,0 +1,102 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-19T08:59:26+01:00
+
+====== Necropolis ======
+Created Sunday 19 May 2019
+
+**Intro**
+
+//Known series of events//
+1. Museum raided by zombies, artifact stolen
+2. High Priest (Father Theodore Gilsepie) goes missing - //furnished with a description of Father Gilsepie//
+3. Sofia Brighthelm, captain of the city watch and a guard troupe go down to necropolis, don't come back - //furnished with a description of Sofia//
+
+//Actual series of events//
+1. Helabolem posesses Father Gilsepie, creating a Cambion
+2. Cambion begins raising dead in the Necropolis, gathering priests/wizards under their sway
+3. Zomies raid the museum and steal the artifact
+4. Cambion 'disappears' into the Necropolis now they have two artifacts
+5. City guard sent to investigate, are killed, Sofia becomes a wight
+6. Ghouls are accidentally created in the graveyard nearby and break through into the Necropolis
+7. Flesh golem goes feral - wizards and Cambion shut themselves into the Archive to finish setting up portal
+
+
+**Main Chamber**
+
+//At the centre of the pavilion is a stone spiral staircase, that descends into the earth. At its base in the centre of the lower chamber there is a mosaic, depicting the ushering of souls into the afterlife. Leading off from this chamber are four exits: A stair case leading down to a set of double doors in the south east corner, a set of double doors in the north wall, and two single doors in the west wall. The rightmost of these has been broken, with a large splintered hole in it's lower half. As the party moves down the stairs, they feel a heavy scuttling on the underside of the staircase, and see a long dark shape, glistening damply, vanish through the break in the north west door.//
+
+
+**Ossuary (NW)**
+
+1. Knuckle room
+//A cramped room, filled with shelves packed with whole, tiny bones in strictly ordered stacks. On the wall is a torch sconce, holding a fresh unlit torch. There is a single exit in the right hand wall, leading into a darkened room. The floor appears to be clean, save for a viscous trail of slime that leads into the next room. Nothing can be heard from within.//
+
+2. Rib room
+//Similar to the previous, this room is filled with compartmented shelves, each holding a compacted sheaf of a single type of rib. The viscous trail leading from the previous room ends abruptly in the centre of the floor. There is an exit in the far wall, leading into a further dark room, and a torch sconce on the wall, holding another fresh and unlit torch.//
+Lurking silently and unseen in the darkness on the roof is a **carrion crawler [MM p37]**, that is averse to light. It will attack if exposed to light or reacted to, or if it perceives vulnerability. 
+
+3.Thin bones
+//As you step through the doorway you feel the sharp crack of splintering bone under your feet. This room seems to hold the thin bones of the arm and lower leg, but something has ransacked the once orderly stacks, strewing the bones about wildly, Many have been cracked open, the marrow gnawed out. A door at the far end leads into a long darkness; the smell of disturbed earth wafts out of it., //
+
+5. Long bones and vertebrae
+//This long room is lined with a triple layer of shelves, cubbies stacked with the long bones of arms and legs. About halfway down the room is what seems to be a roof collapse - a huge pile of loose earth stretches from floor to ceiling, tumbled white vertebrae shining like pebbles. A lanky pale shape squatting on a small mound of dirt gnaws on a femur. It snarls as you approach, licking its lips with an abnormally long purple tongue.//
+**Ghoul MM p148.** The ghoul scampers back through a tunnel in the centre of the mound of dirt as soon as it takes any damage.
+
+6. Pelvisii
+//The smell hits you as soon as you begin to crawl through the tunnel. It smells of the week dead sheep you once found drowned in a stream at the edge of Haven and fills you with a kind of sick despair. At first it's difficult to tell which of the hunched shapes you see on the other side are living as three gangly creatures slouch amongst a slew of bodies. You recognise the uniforms of the city guard on some of the corpses as well as a few priests' robes, the spiral symbol of Corallion disfigured and daubed over. The hindmost creature, slightly larger and nestled on a bed of pelvises looks up at you with a wicked animal intelligence.//
+**1/2x ghoul(s), 1x ghast. MM p148**. The ghouls act as footsoldiers, paralysing with claws to act as crowd control, whilst the ghast siezes a victim and attemps to drag them away through the tunnel. Once in the tunnel it begins biting.
+
+
+**Embalming Wing (SW)**
+
+1. Changing Room
+//A clean, medical, looking room. On one wall hang a row of pegs with full-length black robes and long supple leather gloves. Beside the door sits a stone basin of water, a twin basin at the rooms far end displaying a rusted tidemark along its sides.//
+
+2. Embalming Room
+//This room is filled with the sweet scent of oils with a sickly undercurrent of corruption. Two scrubbed stone slabs sit against the wall, a variety of metal tools - saws, hooks, probers, placed beside them. One slab still holds a dark mark, like the imprint of a man's body.//
+
+3. Store Room
+//The air in this room is almost heavy with the weight of perfume. Tall wooden shelves of bottles reach to the ceiling - thin necked alabaster flutes, squat clay pots and blue glass tinctures. On the lower shelves are swathes of rolled white linen bandages. Beside the door is a closed wooden cabinet.//
+Inside the cabinet: Wound dressings, a bottle of liquid with the sharp smell of antisceptic, and two flasks, clearly magical, full of a red liquid that shifts and glitters as you lift it. **2x potions of healing.**
+
+4. Mortuary
+//Interlocking wooden cabinets make up the floor of this long room. Some of the lids have been opened back, leaving the floor a checkerboard of shallow pits. At the far end of the room, slumped against the wall is a monstrous figure - seven foot tall, gashed and bleeding from a score of what look like claw wounds. One arm, draped in exhaustion over a knee is large, muscular and smooth, but the hand at its end seems too small - furred with fine blonde hair like the hand of a halfling. At the wrist is a double band of scarring knitted with thick black stitches. The figure looks up. Its eyes are corpse eyes, irises a washed out grey. Its face seems to have been stitched over the skull, another band of stitching like the fastening of a jacket plunges down its chest, where a small golden key dangles on a cord. It opens its mouth, revealing a gummy blackness and roars in pain and rage.//
+**Flesh golem. MM p169**
+**Key.**
+
+
+**Chapel (NE)**
+
+1. Ossurary (skulls)
+//You go through the double doors to a flagstone hallway, well-worn by the passage of feet. Ahead of you is another set of double doors, carved with an ornate spiral. To your right stretches a long, cave-like room. Your light flickers between the warm yellow prominences of stacked skulls and the deep shadows of eye-sockets. You catch towards the back of the room the gleam of inlaid gems.//
+**2x azurite, 2x moss agate, 2x haematite (10gp value) **inlaid into the eye sockets of the skulls. 
+
+2. Chapel
+
+**Poison gas**
+Fills the chamber by degrees [as determined by the DM]. Visible as a cold mist [may gradually become obscuring].
+CON Save: 12
+Ankle deep: feet feel sluggish. Half movement speed.
+Waist deep: Legs immobalised. Movement speed zero.
+Neck deep: Paralysed.
+Head deep: Paralysed and also nightmares: **Table Fables p.74**
+To turn of gas needs the heavy iron grate to be lifted (STR 15) then the gas disabled (INT 10).
+
+Wight:
+Sofia Brighthelm. Dressed as a captain of the city watch. Looks a little pale and drawn (waxy). Observation shows that her armour is rent at the stomach [the site of her near fatal wound].
+As soon as she sees you she releases the gas as you are talking.
+Bargained into being a wight after being mortally injured to avoid dying. The process of becoming a wight leaves her bound to Helabolem, but if she will try and avoid death again by bargaining if she can.
+
+Loot:
+**1st Level Spell Scroll??? Resistance to fire???**
+
+
+**Archive (SE)**
+
+1. Archives
+**2x wizards**
+**3x cultists**
+
+
+Hellebolan

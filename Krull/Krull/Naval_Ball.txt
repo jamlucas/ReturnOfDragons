@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-15T10:46:23+00:00
+
+====== Naval Ball ======
+Created Friday 15 March 2019
+
+Whole party is Master of Ships themed (a last minute change since they don't have a diamond any more).
+
+//Objectives at this party//
+-Berem sits you down before you leave for the ball instructing you to make the most of this party - it's not just a social occasion but a chance to gather intel on factions in the city and make alliances
+-"I'd suggest securing yourself some time with the most important people there, and if you can't do that at least keep a close eye on what they're doing"
+-He also stresses that he is certain that the Ouzels are responsible for your mother's arrest - any information you can gather that could be used against them could be useful to trade in the 'out of court' part of proceedings
+-Berem would not be at all averse to blackmail. He grew up in the world of dwarven business, and dwarven business is cut-throat
+
+-He also mentions that the lawyer "Silvertongue" will be at the party. They are the best, though their services are not cheap.
+
+-got to have someone with you heavily encouraging you to have a snoop (?)
+
+[[+Guestlist]]
+
+**Countess' Study**
+Would have a locked door you'd have to pick. Golden table held up by golden unicorn statues. Note from the Emperor - ceremonial scroll with spiral seal.
+The note essential thanks Countess Ouzel for "handing over documents confirming the guilt of the former Master of Ships, Lady Oment". Scroll also includes the Emperor's Medal: "a seal recognised across this Empire and beyond". (NB. would be possible to steal or make an impression of this.)
+
+**Vanessa's Room**
+Rich purple pananquin bed. Notice if you look closer that the wooden parts of the bed are stained with paint - as are some parts of the sheets. Charcoal sketches of scenery from Monsterfell are piled all over the desk and bed. An easel is set up in one corner with an oil painting of a brooding mountain. Paints are laid out in the little wooden tray from a paint box. A closed paint box of about the same size is placed under a more ordered pile of sketches on the edge of the desk.
+//Paint box//, smudged with oil paints on the outside, chalkboard panel laid over where a keyhole should be. When you shake it, it sounds as though there are papers inside.
+"AEGNOR, BELU, DGIINO, EEGNR, EILOTV, ELLOWY". (answer is 'DER')
+
+Inside is her journal from the recent visit to Monsterfell the family took. Tucked into the pages you find a letter, written in purple prose but obviously full of genuine sentiment from someone named "Morwen". The letter professes love for Vanessa and celebrates their betrothal. Reading the entries in the journal (or asking any Ouzel at the ball) you can deduce that Morwen is a hobgoblin war chief.

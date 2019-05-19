@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-17T20:36:11+00:00
+
+====== Boss Fight ======
+Created Sunday 17 March 2019
+
+**XP ~ 1600**
+
+Knight - 700 XP
+4x Guards - (25 XP) - 100XP
+
+Tactics:
+Agent Norton: Round 1 uses his Leadership action to inspire his guards
+	Quixotic - goes for the person who seems like most of a 'worthy challenge' - spars with them
+	Hangs back until at least one guard has been defeated
+	When the guards start fleeing moves in for the dragon himself
+	
+Guards: go for whoever has the dragon - their aim is to get the dragon and get out
+	They'll try to stay together, at least in pairs, and mob people/take down easy targets on their way to get the dragon
+	Will disengage or flee when they or the guard next to them is on 4 HP or lower
+
+**STATS:** 
+Guards + Knight: p 347 MM

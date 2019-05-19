@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-29T18:50:23+00:00
+
+====== Kobold Warren ======
+Created Friday 29 March 2019
+
+**Part 1**
+- The kobolds are attacking the farmer's fields because "it's really fun" and "haven't you ever smashed a pumpkin? kaboom!" etc.
+- They are not over-eager to bargain with you, as they think they have a pretty good thing going in general and don't need allies.
+- However, they are aware that you are powerful, and have trapped them in kennels, and killed their leader //Cyprianus Marcus Olivine// (the winged kobold, though they didn't like him much anyway).
+- They will take you to the outskirts of the warren, then bring some-one who is actually authorised to bargain with you. (If you try and insist that the kobolds present make deals they will just cheerfully and obviously lie, agreeing to anything you like.)
+- Warren is clearly built in to the base of the hills near the big bluff that stands behind the farm.
+- A cream and purple kobold in a high plumed helmet (Centurion //Octavius Aureius Bluejohn//) comes out to meet you where you are waiting. "Ave Centurion!"
+- They are willing to cut a temporary truce. They will leave this year's pumpkin harvest alone (not a huge concession, but Berem will stress that you can't really afford a bad harvest with your finances in the state that they currently are) if you'll help them dealing with a pest control problem in their warren.
+- They do not know exactly what the pest control problem is. Kobolds sent to investigate never returned. They blockaded off the affected part of the warren but this is only a temporary solution.
+- The kobold warren's entrance is sandy - like a warren for huge rabbits. No door or guard on the entrance (though it becomes basically immediately obvious that it has been trapped). The entrance is a crawl for all of you and almost certainly a squeeze for Crusher. The kobolds guide you past the first few entrance traps, remove the blockade, then hang back and watch you.
+
+**Part 2**
+- The kobolds took their opportunity to trigger the deadfall trap and wall-in Guizam and co.
+	- it is not possible to clear; kobolds are good miners
+- They aim to wear the party down with traps as they are focussed in towards a pit with an undergrounnd river and a troublesome mimic. The inventor squadron will follow at a distance to try to prevent the party from turning round.
+- They hope that the mimic will kill the party OR the party will kill the mimic, and save themselves some hassle.
+- The mimic is disguised as a boat moored up on the underground river.
+- If the party DO succeed in killing the mimic they will be overwhelmingly surrounded (8 inventors, 2 dragonscale guards) and taken to see the Great Wyrm, //Claudius Octavius Opal.//
+- The kobolds didn't want to be seen by the outside world, but Octavius Bluejohn's lax discipline over the remnants of the 'lost pod' forced their hand. Now they figure the best outcome from the situation is to be recognised and paid split fealty by the residents of Appleby.
+- To ensure that they are not immediately betrayed they demand a hostage swap - they take care of five children of Appleby, you get one of their children (a young sorcerer, //Albus Agrippa Flint//). You have betrayed them once already, which is why they insist on five human hostages.
+

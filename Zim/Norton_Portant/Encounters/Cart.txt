@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-17T20:26:19+00:00
+
+====== Cart ======
+Created Sunday 17 March 2019
+
+- Guards are guarding the wagon, but slightly distracted and playing dice, don't feel threatened by the kids
+- Make it obvious that you could break into this cart / that the guards are easy to distract
+- See map
+
+If a fight is provoked: they are just aiming to subdue to children - 
+	- if the going gets tough they call the sleeping Night Watch
+	- if anyone gets dropped to 4HP or lower they run to fetch Norton/barricade themselves inside the cart (which provides cover and has a sphere of dispell magic in it)
+
+**STATS:**
+Golem Horse: (Clay Golem) p168 MM - shouldn't need to fight it though
+Guards: p347 MM
+
+(500 XP encounter if (10x) guards are all fought)

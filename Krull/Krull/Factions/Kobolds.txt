@@ -1,0 +1,65 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-15T10:43:51+00:00
+
+====== Kobolds ======
+Created Friday 15 March 2019
+
+200 kobolds
+	Able adults: 150
+	Young: 30
+	Sick/old: 20
+	
+Pod division:
+
+**General staff** (special pod: 40)
+Great Wyrm (sorcerer) - //Claudius Octavius Opal//
+20 dragonscale bodyguards
+20 inventors/advisors
+
+**Nursery** (special pod: 50)
+Young: 30 - inc. //Albus Agrippa Flint//
+Old: 20
+
+**27th Pod, Bluejohn **(20)
+1 Centurion - //Octavius Aurelius Bluejohn// (dead)
+11 warriors/skirmishers/hunters
+8 craftsmen/cooks etc.
+
+**9th Pod, Lost Pod **(8, under the control of Bluejohn)
+Centurion - killed by ooze
+8 warriors/ skirmishers - inc. //Marcus Augustus Pyrite//, 5x imprisoned, 2x dead
+Craftsmen/cooks etc. killed by ooze
+
+**8th Pod, Copper **(20)
+1 Centurion - //Marius Quintillian Copper//
+11 warriors/skirmishers/hunters
+8 craftsmen/cooks etc.
+
+**2nd Pod, Lazuli **(20)
+1 Centurion - //Quintillian Cyprianus Lazuli//
+11 warriors/skirmishers/hunters
+8 craftsmen/cooks etc.
+
+**12th Pod, Garnet **(20)
+1 Centurion - //Aquilinus Iovianus Garnet//
+11 warriors/skirmishers/hunters
+8 craftsmen/cooks etc.
+
+**16th Pod, Pyroxene **(20)
+1 Centurion - //Claudius Paulus Pyroxene//
+11 warriors/skirmishers/hunters
+8 craftsmen/cooks etc.
+
+//Servius Atilus Mica//
+//Horatius Germanus Tourmaline//
+
+//Gaius Gnaeus Epidote//
+
+//Aetius Albus Hornblende//
+//Cnaeus Lucilius Halite//
+//Avitus Caelius Malachite//
+//Antonius Claudius Diopside// 
+//Gauis Cato Siderite//
+//Cyprianus Marcus Olivine//
+

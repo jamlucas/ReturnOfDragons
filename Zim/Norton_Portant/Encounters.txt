@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-17T20:07:18+00:00
+
+====== Norton Portant:Encounters ======
+Created Sunday 17 March 2019
+
+3x Lvl 3
+
+CR Ratings of Encounters
+Easy : 225
+Med : 550
+Difficult : 775 
+Deadly : 1100

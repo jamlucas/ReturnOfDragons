@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-17T20:26:49+00:00
+
+====== Knucklebone Thugs ======
+Created Sunday 17 March 2019
+
+**XP: 1000**
+
+5 Thugs
+
+Tactics: Get close in to melee, pile on to one target at a time.
+	- Send in two people after a damaging spellcaster if they can spare them
+	- Once one thug is seriously wounded (down to 12HP or unconscious, as seems appropriate) they all Disengage and back off, firing crossbows as they go
+
+**STATS:** 
+Thugs: p 350 MM

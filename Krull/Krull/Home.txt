@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-14T17:17:21+00:00
+
+====== Home ======
+Created Thursday 14 March 2019
+
+This being an [[Campaign Log|account]] of the adventures of Guizam Oment, Lord of Northshore, by the city of Powys, in the land of [[Mappo|Krull]]. 
+
+**Politics of Krull**
+[[Factions:Emperor|Emperor]]
+
+//Factions in Powys//
+Thieves Guild
+Francesco's Thieves Guild
+City Watch
+[[Factions:Liberteers|The Liberteers]]
+[[Factions:Kobolds|Appleby Kobold Warren]]
+
+**Associates**
+* [[Associates:Berem Gemcutter|Berem Gemcutter]]
+* [[Associates:Crusher|Crusher]]
+* [[Associates:Francesco|Francesco]] (and Marco)
+* [[Associates:Jeren Tealeaf|Jeren Tealeaf]]
+
+
+//Event Notes//
+[[Kobold Warren]]
+[[Naval Ball]]
+[[Murder at the Giggling Dolphin]]

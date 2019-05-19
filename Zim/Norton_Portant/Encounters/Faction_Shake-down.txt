@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-17T20:04:18+00:00
+
+====== Faction Shake-down ======
+Created Sunday 17 March 2019
+
+- step outside to a rolling battle in the street
+- it's hard to make out but it looks as though there migh be about twenty people on each side - townsfolk you recognise
+- you have never seen this much bloodshed carried out by people you //know// - people have butcher's hooks, farming sickles, clubs, axes...
+- Shadow's cultists are all sporting silver scale tattoos
+- other townsfolk have all manner of indiscriminate 'protection from evil' festooned about themselves : horseshoes, cloves of garlic etc.
+
+- you are stunned for a minute : "what do you do?"
+- if they just dither for a bit have the dragon leap into the fray and they have to chase after it
+
+
+MECHANICS:
+//Moving through the fight// - risk of getting hit by stray attacks 
+	- each roll a d20-2 every time they try to move. If this is higher than their AC take 1d4 damage (roll a d6 for bludgeoning/piercing/slashing) 
+//Joining the fight on one side //- simulate fighting on one side of the battle
+	- each take on two commoners, with flavour about fighting alongside allies etc
+//Trying to take on everybody at once //
+	- each take on three commoners, with flavour about everyone attacking each other
+	
+
+- Sheriff Adran breaks it up at the end by firing his crossbow into the air
+- (if they were fighting, let them defeat specified number of people then describe the last few people desisting)
+
+**STATS:**
+Commoners: p345 MM

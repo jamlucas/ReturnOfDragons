@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-17T20:51:45+00:00
+
+====== Cultists ======
+Created Sunday 17 March 2019
+
+//Shadow// (teenage elf cult leader - actually named //Erdan// and son of Alan Walker, greengrocer)
+
+//Bardryn Dankil// (dwarven blacksmith)
+//Vola// (half-orc hunter)
+//Keth //(half-orc hunter - Vola's husband)
+//Teazle Greenbottle// (halfling farmer - it's her barn)
+//Valanthe// (old elven trapper)
+//Hadrian Thorn// (human hunter)
+//Tordek Ungard// (young dwarven apprentice cleric) 
+//Skip Birtwhistle// (halfling farmer)
+//Renn Heath// (human trapper)

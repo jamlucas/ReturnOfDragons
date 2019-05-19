@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-17T20:06:58+00:00
+
+====== En-cow-nter ======
+Created Sunday 17 March 2019
+
+**XP: 450**
+
+2x Aurochs
+
+Lashed to a cart (lashed together)
+One has mad cow disease and will literally fight to the death
+	- tactics: to charge where it can and knock them prone
+	- to attack the person that a) is drawing the most attention/moved the most or b) attacked it last
+The other is just a very scared cow
+	- tactics: will fight to escape - makes a strength check (CR 17)
+	- then runs at whoever is standing in the way of it to get away - make sure you know where people are
+	- willing to knock people prone but not gore them
+	- can be calmed on a CR 15 handle animals check (CR 20 if still by the mad cow)
+	
+Belong to //Hadrian Tarn//
+
+**STATS:** 
+Aurochs: p 207 Volo's Guide to Monsters

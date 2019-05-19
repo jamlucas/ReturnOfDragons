@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-17T19:44:01+00:00
+
+====== Campaign Log ======
+Created Sunday 17 March 2019
+
+[[+Session 2]]

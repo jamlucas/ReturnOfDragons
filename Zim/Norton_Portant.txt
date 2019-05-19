@@ -1,0 +1,82 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-17T19:45:33+00:00
+
+====== Norton Portant ======
+Created Sunday 17 March 2019
+
+THEME OF THIS ADVENTURE IS:
+People have mixed feelings about the dragon
+Dragon=problems
+
+- dragon needs to be seen by the town
+- have them roll to restrain it? (it rolls acrobatics checks - can flub these also..)
+- otherwise it runs off, gets seen and causes minor property damage (one of the reasons Adran feels he has jurisdiction to hold on to it)
+
+- INTRO TO THE SET-UP
+- Adran calls them in to his office
+- he says : "give me the dragon so I can put it in jail" (they probably say "no")
+- if they are dumb enough to take the dragon with them he will try to just take it
+- he telegraphs the future trouble "the dragon is making people in the town anxious and agitated"
+
+ACTION SCENE
+[[+Encounters:En-cow-nter|En-cow-nter.]] 
+- Walk out of the sherrif's office and almost get knocked down / DEX check
+- Cows belong to the scared faction (Ole Joe). They can say things to the effect of "my Timmy never came back from the woods, and now this. It's all that dragon's fault"
+
+FREE TIME AND SHOPPING
+- Run them through this by saying "is there anything you want to do in town - you can each have one thing"
+- Can buy better armour for Sylvana
+- Generically explore the town
+- Meet some more townspeople suspicious of the dragon
+
+NORTON PORTANT ARRIVES
+- Group of men in black on horses acompanied by a golem horse pulling a cart
+- Make a big deal of "the cart is a very special cart, it's here to take away the dragon, etc."
+- Adran publically rebuffs them - he's the boss here
+- They very loudly say "right, we'll just set up camp over there then"
+
+NIGHT TIME SNEAKING
+- See strange lights on the hill
+[[+Encounters:Mysterious Barn|Mysterious Barn]]
+- Meet the cultists, they don't know anything but they think the dragon will be "the herald of a new and better world"
+
+- By this point all four factions should be introduced.
+- Hooks open are
+* [[+Encounters:Cart|Norton Portant's weird cart]] - can lead them to this via the encounter with the thugs
+* [[Norton Portant:Encounters:Knucklebone Thugs|Encounters with thugs]] - throw this in if they are dithering
+* 'Cultists' want you to give //them //the dragon (will offer to help you bust it out if it's in jail)
+* People vaguely alluding that they intend to fight the other side - not at a specified time, they're just expecting things to go down
+
+SETTING UP A SHOWDOWN
+- That evening there's a very contentious town meeting in the pub about what to do with the dragon - just avoid coming to blows (Adran and the Barwoman - Joelle - mediate)
+
+FACTION FIGHT
+- They wake up to this?
+- It might be possible to avoid this, if they make that a focus
+- [[+Encounters:Faction Shake-down|Fight]] between different factions that ends with people dying - they might get involved?
+
+CLIMAX
+- Joelle (or any NPC they have come to trust) should maybe prompt them to get the hell out of there (see below)
+- if the dragon is in jail they should be able to (attempt to) bust it out
+- if this is successful or not, or if they try to otherwise escape it should trigger...
+- [[Norton Portant:Encounters:Boss Fight|Boss Fight]] with Norton Portant
+
+IF THEY DO LITERALLY NOTHING
+- After the big fight, the Mailed Glove beat up Adran and bundle the dragon into their cart
+- Maybe the link to Vandelmo there is that he might help them get the dragon //back//
+
+HOOK TO NEXT ADVENTURE
+- ends with being given a map to "your [Hedgie's?] distant cousin Vandelmo, he lives in a monastery full of very learned monks who might be able to help you if he vouches for you"
+- escape, you'll be "safe with him..."
+
+OPTIONS FOR DRAGON MISADVENTURES
+- dragon could be in jail the whole time
+- dragon could be hiding out with them - but if they leave it alone could get word that Agent Norton is searching every house - again perhaps prompting an encounter with the thugs
+- if they tell the dragon to go away it gets in trouble - could prompt the encounter with the Thugs - could burn down the cultist's temple by knocking over candles
+
+**Factions**
+[[+Factions:Adran]]
+[[+Factions:Scared Townsfolk]]
+[[Norton Portant:Factions:Cultists|+Factions:Cultists]]
+[[Norton Portant:Factions:Mailed Glove|+Factions:Mailed Glove]]
